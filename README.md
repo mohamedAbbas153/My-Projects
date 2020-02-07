@@ -1,2 +1,2 @@
 # Basic-react-Project
-this my previous created projects
+this my first basic react web app
